@@ -1,0 +1,8 @@
+O###15:50###Ulm (FMM)###W6 1475###Wizz Air###started###108-108###
+P###19:55###Paryz (CDG)###AF 1046###Air France###true###1###
+O###15:50###Berlin (BER)###LO 1475###Lot###started###108-148###
+O###15:30###Londyn (FMM)###W3 1475###Wizz Air2###started###118-118###
+P###05:25###Barcelona (CDG)###AS 1544###Air Spain###true###1###
+O###11:54###Rzym (FMM)###RY 1435###Air Italy###started###208-118###
+P###13:55###Wroclaw (CDG)###JP 2137###Air France###true###1###
+P###19:41###Zurich (ZRH)###LO 420###Air France###true###1###
